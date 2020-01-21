@@ -8,5 +8,6 @@
 \textrm{In Silicon Speculatoris at Auctor}
 \end{document}
 
-
+In Silicon Speculatoris at Auctor
 This is the beginning of my blog
+Trying to qwrite blog as newspaper typw
